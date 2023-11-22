@@ -38,40 +38,40 @@ const InvisiblePain = () => {
           <img
             src="../02. INVISIBLE PAIN/invisible-pain-wilfried-zahibo-1.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
               src="../02. INVISIBLE PAIN/invisible-pain-wilfried-zahibo-2.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
               src="../02. INVISIBLE PAIN/invisible-pain-wilfried-zahibo-3.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
               src="../02. INVISIBLE PAIN/invisible-pain-wilfried-zahibo-4.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
               src="../02. INVISIBLE PAIN/invisible-pain-wilfried-zahibo-5.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
               src="../02. INVISIBLE PAIN/invisible-pain-wilfried-zahibo-6.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
         </div>

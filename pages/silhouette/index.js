@@ -10,9 +10,9 @@ const silhouette = () => {
   }, []);
 
   return (
-    <div className="scrollable-page bg-bgabove w-full h-full bg-local bg-cover bg-center">
+    <div className="scrollable-page bg-silhouette w-full h-full bg-local bg-cover bg-center">
       <h3 className="flex justify-center items-center text-4xl font-nomark mt-5">
-        ABOVE THE SEA
+      SILHOUETTE
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe
@@ -38,25 +38,25 @@ const silhouette = () => {
           <img
                   src="../10. SILHOUETTE/silhouette-1.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
                src="../10. SILHOUETTE/silhouette-2.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
                 src="../10. SILHOUETTE/silhouette-3.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
               src="../10. SILHOUETTE/silhouette-4.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
          

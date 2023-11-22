@@ -10,7 +10,7 @@ const nxrah = () => {
   }, []);
 
   return (
-    <div className="scrollable-page bg-bgabove w-full h-full bg-local bg-cover bg-center">
+    <div className="scrollable-page bg-nxrah w-full h-full bg-local bg-cover bg-center">
       <h3 className="flex justify-center items-center text-4xl font-nomark mt-5">
         NXRAH
       </h3>
@@ -38,39 +38,39 @@ const nxrah = () => {
           <img
                 src="../08. NXRAH/nxrah-1.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
              src="../08. NXRAH/nxrah-2.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
              src="../08. NXRAH/nxrah-3.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
              src="../08. NXRAH/nxrah-4.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
              src="../08. NXRAH/nxrah-5.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
             src="../08. NXRAH/nxrah-6.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
         </div>

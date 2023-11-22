@@ -38,39 +38,39 @@ const devilcanyon = () => {
           <img
             src="../05. DEVIL_S CANYON/devil-canyon-1.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
               src="../05. DEVIL_S CANYON/devil-canyon-2.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
                src="../05. DEVIL_S CANYON/devil-canyon-3.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
                src="../05. DEVIL_S CANYON/devil-canyon-4.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
               src="../05. DEVIL_S CANYON/devil-canyon-5.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
              src="../05. DEVIL_S CANYON/devil-canyon-6.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
         </div>

@@ -29,7 +29,11 @@ module.exports = {
       },
       backgroundImage: {
         
-        devil: 'url("/background-devils-canyon.jpg)',
+        parking: 'url("/background-parking-lot.jpg")',
+        nxrah: 'url("/background-nxrah.jpg")',
+        silhouette: 'url("/background-silhouette.jpg")',
+        blood: 'url("/background-bloods.jpg")',
+        devil: 'url("/background-devils-canyon.jpg")',
         backto70: 'url("/background-back-70s-section.jpg")',
         bgpain: 'url("/background-invisible-pain-section.jpg")',
         bgabove: 'url("/background-above-the-sea-section.jpg")',

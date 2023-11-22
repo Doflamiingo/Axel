@@ -38,63 +38,63 @@ const  marenostrum = () => {
           <img
             src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-1.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
              src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-2.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
             src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-3.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
            src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-4.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
              src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-5.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
           src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-6.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div><div>
           <img
            src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-7.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div><div>
           <img
            src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-8.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div><div>
           <img
            src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-9.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div><div>
           <img
            src="../03. MARE NOSTRUM/mare-nostrum-pereira-sarda-10.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
         </div>

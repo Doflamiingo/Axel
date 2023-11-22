@@ -73,16 +73,17 @@ const backto70 = () => {
               className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
-          <div  >
+        
+        </div>
+        
+      </div>
+      <div className="flex item-center justify-center"  >
           <img
            src="../04. BACK TO 70_S/back-to-70s-7.jpg"
               alt="Image 1"
               className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
-        </div>
-      </div>
-
       
     </div>
   );

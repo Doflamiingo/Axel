@@ -10,9 +10,9 @@ const parkinglot = () => {
   }, []);
 
   return (
-    <div className="scrollable-page bg-bgabove w-full h-full bg-local bg-cover bg-center">
+    <div className="scrollable-page bg-parking w-full h-full bg-local bg-cover bg-center">
       <h3 className="flex justify-center items-center text-4xl font-nomark mt-5">
-        ABOVE THE SEA
+        Parking Lot
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe
@@ -38,51 +38,51 @@ const parkinglot = () => {
           <img
                src="../07. PARKING LOT/parking-lot-1.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
              src="../07. PARKING LOT/parking-lot-2.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
               src="../07. PARKING LOT/parking-lot-3.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div> <div>
           <img
            src="../07. PARKING LOT/parking-lot-4.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
               src="../07. PARKING LOT/parking-lot-5.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
           <div>
           <img
               src="../07. PARKING LOT/parking-lot-6.jpg"
               alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
+              className="xl:h-[650px] xl:w-[500px]"
             />
           </div>
-          <div>
-          <img
-              src="../07. PARKING LOT/parking-lot-7.jpg"
-              alt="Image 1"
-              className="xl:h-[500px] xl:w-[500px]"
-            />
-          </div>
+      
         </div>
       </div>
-
+      <div className="flex item-center justify-center"  >
+      <img
+              src="../07. PARKING LOT/parking-lot-7.jpg"
+              alt="Image 1"
+              className="xl:h-[650px] xl:w-[500px]"
+            />
+          </div>
       
     </div>
   );

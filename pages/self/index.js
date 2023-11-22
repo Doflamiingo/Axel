@@ -12,7 +12,7 @@ const self = () => {
   return (
     <div className="scrollable-page bg-bgabove w-full h-full bg-local bg-cover bg-center">
       <h3 className="flex justify-center items-center text-4xl font-nomark mt-5">
-        ABOVE THE SEA
+        SELF PORTRAIT
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe
@@ -48,7 +48,7 @@ const self = () => {
             />
           </div> <div>
           <img
-            src="../11. SELF PORTRAIT/P1085270.jpg"
+             src="../11. SELF PORTRAIT/P1085197.jpg"
               alt="Image 1"
               className="xl:h-[500px] xl:w-[500px]"
             />
