@@ -2,12 +2,8 @@ import React, { useState, useEffect } from "react";
 import ReactPlayer from "react-player";
 import { motion } from "framer-motion";
 
-const blood = () => {
-  const [isClient, setIsClient] = useState(false);
+const Blood = () => {
 
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
 
   return (
     <div className="scrollable-page bg-blood w-full h-full bg-local bg-cover bg-center">
@@ -16,7 +12,7 @@ const blood = () => {
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe
-          src="https://open.spotify.com/embed/track/6mXnfGvmempTdQUoOlJ8hr?utm_source=generator"
+         src="https://open.spotify.com/embed/track/5YbPxJwPfrj7uswNwoF1pJ?utm_source=generator"
           width="500px"
           height="80px"
           frameBorder="0"
@@ -88,4 +84,4 @@ const blood = () => {
   );
 };
 
-export default blood;
+export default Blood;

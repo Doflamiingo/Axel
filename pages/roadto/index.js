@@ -1,13 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import ReactPlayer from "react-player";
 import { motion } from "framer-motion";
 
-const roadto = () => {
-  const [isClient, setIsClient] = useState(false);
+const Roadto = () => {
 
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
 
   return (
     <div className="scrollable-page bg-bgabove w-full h-full bg-local bg-cover bg-center">
@@ -16,7 +12,7 @@ const roadto = () => {
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe
-          src="https://open.spotify.com/embed/track/6mXnfGvmempTdQUoOlJ8hr?utm_source=generator"
+      src="https://open.spotify.com/embed/track/1q3UKwsvTPfF44xQJYC0sg?utm_source=generator"
           width="500px"
           height="80px"
           frameBorder="0"
@@ -76,13 +72,9 @@ const roadto = () => {
         </div>
       </div>
 
-      {isClient && (
-        <div className="flex justify-center items-center  mb-28">
-          <ReactPlayer url="./REEL BELLSMOOD SUNSET.mp4" controls={true} />
-        </div>
-      )}
+     
     </div>
   );
 };
 
-export default roadto;
+export default Roadto;

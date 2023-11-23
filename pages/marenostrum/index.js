@@ -3,11 +3,7 @@ import ReactPlayer from "react-player";
 import { motion } from "framer-motion";
 
 const  marenostrum = () => {
-  const [isClient, setIsClient] = useState(false);
 
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
 
   return (
     <div className="scrollable-page bg-bgabove w-full h-full bg-local bg-cover bg-center">
@@ -16,7 +12,7 @@ const  marenostrum = () => {
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe
-          src="https://open.spotify.com/embed/track/6mXnfGvmempTdQUoOlJ8hr?utm_source=generator"
+         src="https://open.spotify.com/embed/track/4PvVX27CitqLAamcc0PCRU?utm_source=generator"
           width="500px"
           height="80px"
           frameBorder="0"
@@ -100,11 +96,6 @@ const  marenostrum = () => {
         </div>
       </div>
 
-      {isClient && (
-        <div className="flex justify-center items-center  mb-28">
-          <ReactPlayer url="./REEL BELLSMOOD SUNSET.mp4" controls={true} />
-        </div>
-      )}
     </div>
   );
 };

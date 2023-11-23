@@ -3,11 +3,6 @@ import ReactPlayer from "react-player";
 import { motion } from "framer-motion";
 
 const nxrah = () => {
-  const [isClient, setIsClient] = useState(false);
-
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
 
   return (
     <div className="scrollable-page bg-nxrah w-full h-full bg-local bg-cover bg-center">
@@ -16,7 +11,7 @@ const nxrah = () => {
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe
-          src="https://open.spotify.com/embed/track/6mXnfGvmempTdQUoOlJ8hr?utm_source=generator"
+          src="https://open.spotify.com/embed/track/6g8vNyogMW32lhHlNcDiwX?utm_source=generator"
           width="500px"
           height="80px"
           frameBorder="0"

@@ -3,11 +3,7 @@ import ReactPlayer from "react-player";
 import { motion } from "framer-motion";
 
 const Above = () => {
-  const [isClient, setIsClient] = useState(false);
-
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
+ 
 
   return (
     <div className="scrollable-page bg-bgabove w-full h-full bg-local bg-cover bg-center">
@@ -76,11 +72,7 @@ const Above = () => {
         </div>
       </div>
 
-      {isClient && (
-        <div className="flex justify-center items-center  mb-28">
-          <ReactPlayer url="./REEL BELLSMOOD SUNSET.mp4" controls={true} />
-        </div>
-      )}
+     
     </div>
   );
 };
